@@ -1,0 +1,1 @@
+insert into usuarios(usuario, password, rol) values('admin', '$2a$12$dIrlfdwsZbEzK4IXON3fwelqvc3a4.dtjDwWtMDBQOjctiFdTfTjK', 'ROLE_ADMIN');
